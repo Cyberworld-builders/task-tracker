@@ -213,7 +213,7 @@ export default function AuthPage() {
           
           {/* Hero Section */}
           <div className="w-full md:w-1/2 bg-white shadow rounded-lg p-8 flex flex-col justify-center">
-            <div className="text-primary-600 text-3xl font-bold mb-4">TaskFlow</div>
+            <div className="text-primary-600 text-3xl font-bold mb-4">TaskFlow, yo</div>
             <h2 className="text-2xl font-bold text-gray-800 mb-4">Manage your tasks with ease</h2>
             <p className="text-gray-600 mb-6">
               TaskFlow helps you organize your workflow and increase productivity.
